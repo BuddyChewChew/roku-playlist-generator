@@ -39,21 +39,14 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          
-          # FIX: Check if there are any changes in the specific file (roku.m3u) 
-          # compared to HEAD (the last commit)
-          if git diff --quiet --exit-code HEAD -- roku.m3u; then
-            echo "No changes detected in roku.m3u."
+          # Check if there are any changes in the playlists directory
+          if git diff --quiet --exit-code roku.m3u; then
+            echo "No changes detected in playlists."
             exit 0 # Exit successfully, no commit needed
           fi
-          
           echo "Changes detected, committing updates..."
-          
-          # Stage the file located in the main directory
-          git add roku.m3u
-          
+          git add --force roku.m3u # Stage only changes in the playlists
           git commit -m "Update M3U playlists [skip ci]" # [skip ci] prevents triggering another run if 'push' is enabled
-          
           # Retry push with delay in case of transient errors or race conditions
           n=0
           until [ $n -ge 5 ]
@@ -63,7 +56,6 @@ jobs:
              echo "Push failed. Retrying attempt $n/5..."
              sleep 15 # Wait before retrying
           done
-          
           if [ $n -ge 5 ]; then
              echo "Failed to push changes after multiple attempts."
              exit 1 # Exit with error if push fails after retries
