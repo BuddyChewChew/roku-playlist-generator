@@ -140,7 +140,7 @@ def write_m3u_file(filename, content):
 
 def generate_roku_playlist(sort="chno"):
     """Generates M3U playlist for Roku."""
-    ROKU_URL = "https://i.mjh.nz/Roku/.channels.json" 
+    ROKU_URL = "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/.channels.json.gz" 
     EPG_URL = "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml"
 
     logging.info("--- Generating Roku playlist ---")
