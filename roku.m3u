@@ -247,6 +247,8 @@ https://aka-live1050.delivery.roku.com/20c68698-3c0c-49fe-a617-47b30d5ba54d/t2-o
 https://aka-live1050.delivery.roku.com/c041f540-13c1-4023-930a-bc87e6fd3641/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="0057bb20ce6c5717a5a025f2a73b682a" tvg-id="0057bb20ce6c5717a5a025f2a73b682a" tvg-chno="" tvg-name="" tvg-logo="" group-title="",HSN
 https://aka-live1050.delivery.roku.com/b5ce8532-6fd7-4a62-8e5f-19093522fb99/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="8fd0bc4f08285a12abb872f0b2e320d4" tvg-id="8fd0bc4f08285a12abb872f0b2e320d4" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Jamie Oliver
+https://aka-live1050.delivery.roku.com/8e49273f-d1de-43ba-83c5-17bde583e3b7/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="ccfcc3307fa908684a95bf9643b1b935" tvg-id="ccfcc3307fa908684a95bf9643b1b935" tvg-chno="" tvg-name="" tvg-logo="" group-title="",This Old House Shorts
 https://aka-live1050.delivery.roku.com/8f00bfa8-4b22-4c78-9e34-9d2e03e68b9a/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="7b3b6c3d670c5008be3b100fd622fa0d" tvg-id="7b3b6c3d670c5008be3b100fd622fa0d" tvg-chno="" tvg-name="" tvg-logo="" group-title="",QVC's The Big Dish
@@ -277,8 +279,6 @@ https://aka-live1050.delivery.roku.com/d456fc7c-73ad-4ce8-84fb-f1e9c3e1184f/t2-o
 https://aka-live1050.delivery.roku.com/0b75d0b4-701c-4032-9237-424c7b1c65a2/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="7bdac47dd6dd5204b00b1d0e4cbc9684" tvg-id="7bdac47dd6dd5204b00b1d0e4cbc9684" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Outside TV
 https://aka-live1050.delivery.roku.com/93a5718d-1408-4dcb-9444-348e9e2e19d7/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="479fe0d11f3f5132a3f36b617547da3b" tvg-id="479fe0d11f3f5132a3f36b617547da3b" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Love Nature English
-https://aka-live1050.delivery.roku.com/531982b9-848e-4563-ac86-022c63975be7/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="2b50362a8bbc5a12a203aa48e6ea9fe1" tvg-id="2b50362a8bbc5a12a203aa48e6ea9fe1" tvg-chno="" tvg-name="" tvg-logo="" group-title="",The Jack Hanna Channel
 https://aka-live1050.delivery.roku.com/b82321b3-ace3-4dd5-9eaa-e1329813bb02/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="0b88dcd80f6a5e838c83a67e7cfa4b3a" tvg-id="0b88dcd80f6a5e838c83a67e7cfa4b3a" tvg-chno="" tvg-name="" tvg-logo="" group-title="",MagellanTV Wildest
@@ -543,6 +543,8 @@ https://aka-live1050.delivery.roku.com/e418a2dc-eca0-4c33-92fd-b2cb4e86695f/t2-o
 https://aka-live1050.delivery.roku.com/1f201856-6d7b-421a-93a0-903bede3a67f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="17ee6c346f0888dbb217971516686d56" tvg-id="17ee6c346f0888dbb217971516686d56" tvg-chno="" tvg-name="" tvg-logo="" group-title="",LaMúsica TV
 https://aka-live1050.delivery.roku.com/5cb4e8c2-38a8-4fff-a8c7-ab19e49acbd0/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="cc04d77fd589a818cd036c850b6be867" tvg-id="cc04d77fd589a818cd036c850b6be867" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Venevisión Internacional
+https://aka-live1050.delivery.roku.com/d7eb86a5-5553-45ef-b23a-2a582a9a02f7/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="4b57abbe1258eecebd2a7bde87482fa3" tvg-id="4b57abbe1258eecebd2a7bde87482fa3" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Remezcla TV
 https://aka-live1050.delivery.roku.com/735fa27e-e72f-4a0f-8deb-1fa7f9716d8a/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="03a419fc4dff59b39b176d9f76b09e38" tvg-id="03a419fc4dff59b39b176d9f76b09e38" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Love Nature Spanish
@@ -607,5 +609,7 @@ https://aka-live1050.delivery.roku.com/e599acda-0353-46f4-94f1-fe649c923b73/t2-o
 https://aka-live1050.delivery.roku.com/ac814b53-c78f-4058-a042-0927be42f7b0/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="bdb3cb29453a137748dfaeadae2f9d2b" tvg-id="bdb3cb29453a137748dfaeadae2f9d2b" tvg-chno="" tvg-name="" tvg-logo="" group-title="",TV Amor
 https://aka-live1050.delivery.roku.com/1f21834c-a7f3-46f2-ab8f-689b1efc3429/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="770c7e1794505869b1ce94c84905ecea" tvg-id="770c7e1794505869b1ce94c84905ecea" tvg-chno="" tvg-name="" tvg-logo="" group-title="",EMOCIÓN ATRES TV
-https://aka-live1050.delivery.roku.com/639e4af6-d04f-4f09-a1b2-310b2589f330/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="5b4b59af18ff5686916ef5eb3574de46" tvg-id="5b4b59af18ff5686916ef5eb3574de46" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FilmRise Películas Gratis
+https://aka-live1050.delivery.roku.com/dc30fb2f-92fd-4ea0-a810-bcf45ffb34ae/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="e498eb91cd01d4c0c0acdb5ea7c736ab" tvg-id="e498eb91cd01d4c0c0acdb5ea7c736ab" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Kanal D Drama
+https://aka-live1050.delivery.roku.com/777e7c9f-49b5-4797-aeb0-5802c41b6f61/t2-origin/out/v1/live.m3u8
