@@ -273,7 +273,7 @@ https://aka-live1050.delivery.roku.com/561f1bfe-04c8-4109-978e-b5f17483d2f5/t2-o
 https://aka-live1050.delivery.roku.com/96414c68-02f2-4e5c-8e5d-355025ccf724/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="1d3f60995d80521882a379fc06e47679" tvg-id="1d3f60995d80521882a379fc06e47679" tvg-chno="" tvg-name="" tvg-logo="" group-title="",The Bob Ross Channel
 https://aka-live1050.delivery.roku.com/1ede7a2e-3bdb-4abf-8fda-db572772aae4/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="ada4254a1dd65c138f62e7c45affb45c" tvg-id="ada4254a1dd65c138f62e7c45affb45c" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Gardening with Monty Don
+#EXTINF:-1 channel-id="ada4254a1dd65c138f62e7c45affb45c" tvg-id="ada4254a1dd65c138f62e7c45affb45c" tvg-chno="" tvg-name="" tvg-logo="" group-title="",GARDEN with Monty Don
 https://aka-live1050.delivery.roku.com/d456fc7c-73ad-4ce8-84fb-f1e9c3e1184f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="58673c6e05455569978456bdc210f9d7" tvg-id="58673c6e05455569978456bdc210f9d7" tvg-chno="" tvg-name="" tvg-logo="" group-title="",At Home With Family Handyman
 https://aka-live1050.delivery.roku.com/0b75d0b4-701c-4032-9237-424c7b1c65a2/t2-origin/out/v1/live.m3u8
@@ -387,6 +387,8 @@ https://aka-live1050.delivery.roku.com/6b8411af-8790-49ab-932e-7d12a83c53cd/t2-o
 https://aka-live1050.delivery.roku.com/01df2f47-d995-462c-ad90-9b78acab1224/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="0b8a86b44ef0780c3b3226a63be07e0f" tvg-id="0b8a86b44ef0780c3b3226a63be07e0f" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Highway Thru Hell
 https://aka-live1050.delivery.roku.com/6b9301ca-6c0a-4c4c-a4b4-807959440ceb/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="562baf35c5da56cc91cdea41537b43f9" tvg-id="562baf35c5da56cc91cdea41537b43f9" tvg-chno="" tvg-name="" tvg-logo="" group-title="",BUZZR
+https://aka-live1050.delivery.roku.com/7b4616d4-3622-46bd-aca6-3c8593090c4d/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="4ad47ace83b25065955adca3f8e9bdcf" tvg-id="4ad47ace83b25065955adca3f8e9bdcf" tvg-chno="" tvg-name="" tvg-logo="" group-title="",The Price Is Right: The Barker Era
 https://aka-live1050.delivery.roku.com/55a81417-dfad-49bc-9944-4279034c3b82/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="ffe5d9e0480d1c5e1dcead3abd966ac7" tvg-id="ffe5d9e0480d1c5e1dcead3abd966ac7" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Let's Make a Deal
@@ -645,3 +647,13 @@ https://aka-live1050.delivery.roku.com/ca8ac61f-40c4-44aa-b1c1-05ecf6b92c11/t2-o
 https://aka-live1050.delivery.roku.com/8f207f16-3e6e-4d35-9006-e7ae32013f89/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="c39d021ed8c95682a82ce6077ac0ab47" tvg-id="c39d021ed8c95682a82ce6077ac0ab47" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Runtime Sangre Fría
 https://aka-live1050.delivery.roku.com/51278b09-b210-4d6f-860b-7e2bdba396bd/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="c7fa77b283b35873aa6f08cf73d75b5f" tvg-id="c7fa77b283b35873aa6f08cf73d75b5f" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Crímenes Verdaderos
+https://aka-live1050.delivery.roku.com/c2a45163-8533-481a-b2bf-e4174affaf6b/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="f2bbfc9566f9519aad982aea41b95f83" tvg-id="f2bbfc9566f9519aad982aea41b95f83" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Misterios sin resolver
+https://aka-live1050.delivery.roku.com/49c4771c-8ea0-4be7-8592-da0ad5c2f027/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="5b18fd4082c85d698f6f71702d82be28" tvg-id="5b18fd4082c85d698f6f71702d82be28" tvg-chno="" tvg-name="" tvg-logo="" group-title="",COPS en Español
+https://aka-live1050.delivery.roku.com/eafa3a7d-d436-4f1a-8b87-da1879d0430f/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Stingray Naturescape
+https://aka-live1050.delivery.roku.com/0db77608-4244-475f-89a1-36aa3e152070/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="79876f8f79d0394ba8982259393e5e32" tvg-id="79876f8f79d0394ba8982259393e5e32" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Stingray Zen Life
+https://aka-live1050.delivery.roku.com/d553ea91-3157-4140-9b6c-0671a5026c49/t2-origin/out/v1/live.m3u8
