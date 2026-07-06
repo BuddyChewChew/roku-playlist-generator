@@ -267,8 +267,6 @@ https://aka-live1050.delivery.roku.com/8b391845-f316-43b2-9f8a-b91c39a636ae/t2-o
 https://aka-live1050.delivery.roku.com/d219883b-5654-402f-9391-33e9144cad39/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="0a4f2ecbb9d3f127aa5fc5f31be22842" tvg-id="0a4f2ecbb9d3f127aa5fc5f31be22842" tvg-chno="" tvg-name="" tvg-logo="" group-title="",EarthDay 365
 https://aka-live1050.delivery.roku.com/5fdbb387-8826-46a0-b77c-5e17a37aa54d/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="95a0b94ff13a4dc14fea6e9eb47ecf09" tvg-id="95a0b94ff13a4dc14fea6e9eb47ecf09" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Tastemade Travel
-https://aka-live1050.delivery.roku.com/a3362adc-49f9-4c29-9a11-e08d19759d87/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="5a1dec25daac971f191b10e808ec0c5d" tvg-id="5a1dec25daac971f191b10e808ec0c5d" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Tastemade Home
 https://aka-live1050.delivery.roku.com/657471b0-8782-43cd-8b62-a33e43057e9a/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="3ec371d7730f16b07a55ede8a4472261" tvg-id="3ec371d7730f16b07a55ede8a4472261" tvg-chno="" tvg-name="" tvg-logo="" group-title="",PBS Genealogy
@@ -661,19 +659,7 @@ https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-o
 https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-chno="" tvg-name="" tvg-logo="" group-title="",News 12 New York
 https://aka-live1050.delivery.roku.com/e7654bde-8f17-48cf-b5a4-73e5072629c5/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="1672824c4fd55e5dbfcb57f147910270" tvg-id="1672824c4fd55e5dbfcb57f147910270" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Atlanta News First
-https://aka-live1050.delivery.roku.com/eeb4a526-4b3b-4c33-a9e9-b481f5358dec/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="ec2faed50af3503e934f0c342a7952fe" tvg-id="ec2faed50af3503e934f0c342a7952fe" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Arizona's Family
 https://aka-live1050.delivery.roku.com/4f9e883b-309e-4957-8f28-a98d21bb6b54/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ABC7 Sarasota
-https://aka-live1050.delivery.roku.com/9c7ca2ba-ded2-437e-b542-9d7b09e68f90/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="d0d9af56b7735c318b66afe21089d028" tvg-id="d0d9af56b7735c318b66afe21089d028" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Cleveland 19 News Plus
-https://aka-live1050.delivery.roku.com/ed666203-17c5-4378-b730-0f2b9e63f35e/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-chno="" tvg-name="" tvg-logo="" group-title="",KPTV FOX 12 Oregon News
-https://aka-live1050.delivery.roku.com/4438f39d-54a7-4b30-905c-37a45d80fb51/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="bf7ee95e6a905222a1d24174120cc106" tvg-id="bf7ee95e6a905222a1d24174120cc106" tvg-chno="" tvg-name="" tvg-logo="" group-title="",WBTV News 3
-https://aka-live1050.delivery.roku.com/c3096ddd-1604-43ed-a60d-045da435a6f5/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="e8f8972f377a598590592ecd079e7cc4" tvg-id="e8f8972f377a598590592ecd079e7cc4" tvg-chno="" tvg-name="" tvg-logo="" group-title="",First Alert 4 St. Louis
-https://aka-live1050.delivery.roku.com/d62a674b-9c37-48e0-ae54-1a159e5869ee/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="d53b1fb8c41f574387cde82d084515ea" tvg-id="d53b1fb8c41f574387cde82d084515ea" tvg-chno="" tvg-name="" tvg-logo="" group-title="",WSMV 4 News
 https://aka-live1050.delivery.roku.com/407669f5-ff1f-4cd7-86fe-2d15b4f7b531/t2-origin/out/v1/live.m3u8
