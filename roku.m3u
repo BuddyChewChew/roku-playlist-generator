@@ -385,6 +385,8 @@ https://aka-live1050.delivery.roku.com/c06cf969-9735-4172-b4cc-5bd84d3a4281/t2-o
 https://aka-live1050.delivery.roku.com/0ba7423f-c4fc-4355-b74b-4139c334325c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Top Barça
 https://aka-live1050.delivery.roku.com/6c52e64d-3f25-402b-a025-6ff5db1a670b/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="35633f08c98857cb9e85c91eae17c0d5" tvg-id="35633f08c98857cb9e85c91eae17c0d5" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ViX Lo Mejor de Liga MX
+https://aka-live1050.delivery.roku.com/025088b2-d7e3-4803-9e66-a2a0eac3c39a/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="04be54c79d1f55d0909e684f64f9fb57" tvg-id="04be54c79d1f55d0909e684f64f9fb57" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Azteca Deportes Network LITE 3
 https://aka-live1050.delivery.roku.com/a6a51953-cfd1-4c71-bb62-ace820c16b89/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="447d63b6da208bb796b69f0383c474a1" tvg-id="447d63b6da208bb796b69f0383c474a1" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Danger TV
@@ -501,8 +503,6 @@ https://aka-live1050.delivery.roku.com/349d70a5-a6ec-4dd8-a903-de5b63917ba7/t2-o
 https://aka-live1050.delivery.roku.com/8de778ac-2d18-4517-9bf1-872a48449ae7/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-chno="" tvg-name="" tvg-logo="" group-title="",News 12 New York
 https://aka-live1050.delivery.roku.com/e7654bde-8f17-48cf-b5a4-73e5072629c5/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="1672824c4fd55e5dbfcb57f147910270" tvg-id="1672824c4fd55e5dbfcb57f147910270" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Atlanta News First
-https://aka-live1050.delivery.roku.com/eeb4a526-4b3b-4c33-a9e9-b481f5358dec/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="ec2faed50af3503e934f0c342a7952fe" tvg-id="ec2faed50af3503e934f0c342a7952fe" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Arizona's Family
 https://aka-live1050.delivery.roku.com/4f9e883b-309e-4957-8f28-a98d21bb6b54/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ABC7 Sarasota
