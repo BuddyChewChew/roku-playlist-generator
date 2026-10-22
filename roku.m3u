@@ -255,14 +255,14 @@ https://aka-live1050.delivery.roku.com/9ab42dd8-a983-478a-92d9-4de939a903a2/t2-o
 https://aka-live1050.delivery.roku.com/13d06c28-7fed-42c3-ac85-69f9f7e75793/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="86c08261fc015a58866210bea63eb8f4" tvg-id="86c08261fc015a58866210bea63eb8f4" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Always Funny Videos
 https://aka-live1050.delivery.roku.com/306d4040-c2c6-4102-8922-7eb23729bbe8/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="1b5977c99bc753ec4564fcbb3955c1aa" tvg-id="1b5977c99bc753ec4564fcbb3955c1aa" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Ryan Trahan
-https://aka-live1050.delivery.roku.com/bf19671b-6527-4055-b068-95063e0a85a4/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="b484db42f3d31b6dc2f604d453c694a0" tvg-id="b484db42f3d31b6dc2f604d453c694a0" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Fairground AI TV
 https://aka-live1050.delivery.roku.com/c849b7cc-7d7e-4de6-9d4f-50020322f3c2/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="46967ee2691c134faa248a86293e9a0f" tvg-id="46967ee2691c134faa248a86293e9a0f" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Sam and Colby
 https://aka-live1050.delivery.roku.com/21898a62-21c3-4e3b-bbf7-6567e5e4389d/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="004bc9ca41ae0ffb848a75f33b34ad4a" tvg-id="004bc9ca41ae0ffb848a75f33b34ad4a" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Kelsi Davies: Paranormal Investigations
 https://aka-live1050.delivery.roku.com/417eefa0-3d94-478a-932b-5747d4fbdd4b/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="1b5977c99bc753ec4564fcbb3955c1aa" tvg-id="1b5977c99bc753ec4564fcbb3955c1aa" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Ryan Trahan
+https://aka-live1050.delivery.roku.com/bf19671b-6527-4055-b068-95063e0a85a4/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="498b53f6f63455bbba27754ceb5fcefc" tvg-id="498b53f6f63455bbba27754ceb5fcefc" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Sonic The Hedgehog
 https://aka-live1050.delivery.roku.com/e4e2a5ba-9578-466a-ad3c-0c53e75f523f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="a3c405bfca9b525983054aa761b10dfb" tvg-id="a3c405bfca9b525983054aa761b10dfb" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Super Mario Brothers
@@ -302,7 +302,7 @@ https://aka-live1050.delivery.roku.com/1a257cc8-fc47-473e-ad32-c0ed7fe46f2a/t2-o
 #EXTINF:-1 channel-id="83d43dc731781826c0e004c1fa879a5f" tvg-id="83d43dc731781826c0e004c1fa879a5f" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Braxton Family Values
 https://aka-live1050.delivery.roku.com/73057868-a20c-47ce-a6b5-2c244b0783f1/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="075852fcb99dfe2d55978f807de974ed" tvg-id="075852fcb99dfe2d55978f807de974ed" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Dog Whisperer With Cesar Millan
-https://aka-live1050.delivery.roku.com/783ca1cc-309b-4f08-aa3b-295787f4ee9d/t2-origin/out/v1/live.m3u8
+https://live300.delivery.roku.com/out/v1/2de8ab5659cb4b4d8c8bef2051baadf0/index.m3u8?is_lat=ROKU_ADS_LIMIT_TRACKING&bmodel=bm1&content=075852fcb99dfe2d55978f807de974ed&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=ROKU_ADS_TRACKING_ID&genre=entertainment%2Creality%2Canimals&content_rating=TVPG&studio_id=cinedigm&channel_id=151908&channelStore=us
 #EXTINF:-1 channel-id="28b13463c3cf9b26eb0f87ff11c2a8ec" tvg-id="28b13463c3cf9b26eb0f87ff11c2a8ec" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Untold Stories Of The ER
 https://aka-live1050.delivery.roku.com/fedb3bd6-f813-4d6c-b202-79e8ef6c4553/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="dacd8aab4ff68232ed9d452aa706e2e6" tvg-id="dacd8aab4ff68232ed9d452aa706e2e6" tvg-chno="" tvg-name="" tvg-logo="" group-title="",World Of Love Island
@@ -333,6 +333,8 @@ https://aka-live1050.delivery.roku.com/5a034d3b-8510-4d0c-9b3b-960e6fb40d12/t2-o
 https://aka-live1050.delivery.roku.com/9c9db528-2c4d-40da-b428-ac71cd86ad2d/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="0af429c36c6b517e8df2025e809b3964" tvg-id="0af429c36c6b517e8df2025e809b3964" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Estrella News
 https://aka-live1050.delivery.roku.com/3eeba16d-cbe3-422c-b880-0c52d90b1058/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="e6f5a623c45d5757a50e602eb0591f62" tvg-id="e6f5a623c45d5757a50e602eb0591f62" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Noticias Telemundo AHORA
+https://aka-live1050.delivery.roku.com/038ffd84-d8cf-4100-8529-d59257abcf78/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="ceb64d994c7756c2a8f09ace94c3e43f" tvg-id="ceb64d994c7756c2a8f09ace94c3e43f" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Telediario Now
 https://aka-live1050.delivery.roku.com/83e3226a-8835-4fe4-b3a1-cd7f0e5a3a22/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="a9aae4e62e6fd8e401033cd14ceeaaa2" tvg-id="a9aae4e62e6fd8e401033cd14ceeaaa2" tvg-chno="" tvg-name="" tvg-logo="" group-title="",RCN Noticias
@@ -501,6 +503,8 @@ https://aka-live1050.delivery.roku.com/349d70a5-a6ec-4dd8-a903-de5b63917ba7/t2-o
 https://aka-live1050.delivery.roku.com/8de778ac-2d18-4517-9bf1-872a48449ae7/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-chno="" tvg-name="" tvg-logo="" group-title="",News 12 New York
 https://aka-live1050.delivery.roku.com/e7654bde-8f17-48cf-b5a4-73e5072629c5/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="1672824c4fd55e5dbfcb57f147910270" tvg-id="1672824c4fd55e5dbfcb57f147910270" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Atlanta News First
+https://aka-live1050.delivery.roku.com/eeb4a526-4b3b-4c33-a9e9-b481f5358dec/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="ec2faed50af3503e934f0c342a7952fe" tvg-id="ec2faed50af3503e934f0c342a7952fe" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Arizona's Family
 https://aka-live1050.delivery.roku.com/4f9e883b-309e-4957-8f28-a98d21bb6b54/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ABC7 Sarasota
