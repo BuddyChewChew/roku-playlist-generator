@@ -341,6 +341,10 @@ https://aka-live1050.delivery.roku.com/7ee12862-2d8d-447d-9124-553bfec17e48/t2-o
 https://aka-live1050.delivery.roku.com/c1f16607-abcf-4fb1-9bdb-469c8d3d1466/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="91dff2b8a62b5fe1bdf64de721032cba" tvg-id="91dff2b8a62b5fe1bdf64de721032cba" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Estrella TV
 https://aka-live1050.delivery.roku.com/ae801d5f-8ae0-43d3-ad4b-91523898849b/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="5e709cfe55d955ec899903cde681a5a4" tvg-id="5e709cfe55d955ec899903cde681a5a4" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Azteca Internacional
+https://aka-live1050.delivery.roku.com/bc71bd53-2d74-4db3-a30b-f79089e91f9c/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="e3823bb513585861904499a21a736c4f" tvg-id="e3823bb513585861904499a21a736c4f" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Canal ViX
+https://aka-live1050.delivery.roku.com/c811b72a-67be-483a-a5ef-a8de42d496ec/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="4010582bb66b58a69151a4f552de0823" tvg-id="4010582bb66b58a69151a4f552de0823" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FilmRise Series Gratis
 https://aka-live1050.delivery.roku.com/3ccdcc7e-fe70-4829-9001-e99019afeaad/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="7b5699f58b2b54be9da4d23fe354fb59" tvg-id="7b5699f58b2b54be9da4d23fe354fb59" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ViX Villanos de Novela
@@ -397,8 +401,8 @@ https://aka-live1050.delivery.roku.com/b110a01a-ed02-4aa9-ad91-dad47da6ffca/t2-o
 https://aka-live1050.delivery.roku.com/a3265d9e-dd0a-4ff7-81ca-c54fbef7648f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="017397f76bae510a8a9800c4b94eaa40" tvg-id="017397f76bae510a8a9800c4b94eaa40" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ViX Cine Club
 https://aka-live1050.delivery.roku.com/0f232fec-f2cc-45e0-8876-af34537103d4/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="5d1c16bba82b53e69bf979c2fdca4ca8" tvg-id="5d1c16bba82b53e69bf979c2fdca4ca8" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Novelísima
-https://aka-live1050.delivery.roku.com/733005d7-0122-40d5-9bb4-106ab8033f9d/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="b55fbe1ff60e55a688fdaa35dd790083" tvg-id="b55fbe1ff60e55a688fdaa35dd790083" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Novelísima
+https://aka-live1050.delivery.roku.com/45ffe380-7c2a-4f92-b092-698b6c66d9fc/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="396f57d10b5d5ec98648f810dcbe1f11" tvg-id="396f57d10b5d5ec98648f810dcbe1f11" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ViX Novelas de romance
 https://aka-live1050.delivery.roku.com/32f53f44-1e0b-43c3-acac-ae317e0107d0/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="eaeb1f4ef8ed510e8bc2a3fd78510c30" tvg-id="eaeb1f4ef8ed510e8bc2a3fd78510c30" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Runtime Español
@@ -451,7 +455,7 @@ https://aka-live1050.delivery.roku.com/fa40d37e-1936-46de-96fb-9a5216147abe/t2-o
 https://aka-live1050.delivery.roku.com/7b7d38b6-0b1b-49cd-82df-32d2d663919f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="bb4cb7662f7c1da1e9a46f9e398d57fa" tvg-id="bb4cb7662f7c1da1e9a46f9e398d57fa" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Mi Raza Canal Plus
 https://aka-live1050.delivery.roku.com/2b1a8f2e-740f-4eb3-ba0b-e932bd904a5a/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="89388f7d7bf2910da37d47fa897096bd" tvg-id="89388f7d7bf2910da37d47fa897096bd" tvg-chno="" tvg-name="" tvg-logo="" group-title="",QVC en Español
+#EXTINF:-1 channel-id="89388f7d7bf2910da37d47fa897096bd" tvg-id="89388f7d7bf2910da37d47fa897096bd" tvg-chno="" tvg-name="" tvg-logo="" group-title="",QVC en Espanol
 https://aka-live1050.delivery.roku.com/5d0f57fa-5d2c-4cc9-be25-724388641ebb/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="5396bbd4038fd1901a9a7a63af4f2441" tvg-id="5396bbd4038fd1901a9a7a63af4f2441" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Andromeda
 https://aka-live1050.delivery.roku.com/db9bd14b-b9cf-4467-ae35-dc6e4b511e1d/t2-origin/out/v1/live.m3u8
@@ -493,6 +497,8 @@ https://aka-live1050.delivery.roku.com/eeb4a526-4b3b-4c33-a9e9-b481f5358dec/t2-o
 https://aka-live1050.delivery.roku.com/4f9e883b-309e-4957-8f28-a98d21bb6b54/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ABC7 Sarasota
 https://aka-live1050.delivery.roku.com/9c7ca2ba-ded2-437e-b542-9d7b09e68f90/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="d0d9af56b7735c318b66afe21089d028" tvg-id="d0d9af56b7735c318b66afe21089d028" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Cleveland 19 News Plus
+https://aka-live1050.delivery.roku.com/ed666203-17c5-4378-b730-0f2b9e63f35e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-chno="" tvg-name="" tvg-logo="" group-title="",KPTV FOX 12 Oregon News
 https://aka-live1050.delivery.roku.com/4438f39d-54a7-4b30-905c-37a45d80fb51/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="bf7ee95e6a905222a1d24174120cc106" tvg-id="bf7ee95e6a905222a1d24174120cc106" tvg-chno="" tvg-name="" tvg-logo="" group-title="",WBTV News 3
