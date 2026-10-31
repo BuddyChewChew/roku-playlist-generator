@@ -133,6 +133,8 @@ https://aka-live1050.delivery.roku.com/fa31abda-3e47-4aed-bcc0-916d612153df/t2-o
 https://aka-live1050.delivery.roku.com/a6ffda27-ed61-4891-9e3c-2e0da2c4d9d1/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="fac7a914e241bef68c80c2f6e549458e" tvg-id="fac7a914e241bef68c80c2f6e549458e" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ALF
 https://aka-live1050.delivery.roku.com/83be34ec-2fb9-4794-8569-260f8e790045/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="36d277b3bb5b51890d55fa2c72ccf324" tvg-id="36d277b3bb5b51890d55fa2c72ccf324" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Ghosts
+https://aka-live1050.delivery.roku.com/67b876ec-f430-4914-82f4-989ae7e5c59e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="349e0f0840cf21b888bff327b41a2413" tvg-id="349e0f0840cf21b888bff327b41a2413" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Scares by Shudder
 https://aka-live1050.delivery.roku.com/bf4fff9b-e81f-4dcb-baaf-71b75e091599/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="285f3ba210e8561fa5261af0871ace90" tvg-id="285f3ba210e8561fa5261af0871ace90" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Haunt TV
@@ -339,8 +341,6 @@ https://aka-live1050.delivery.roku.com/389decf5-61fb-4e0b-a999-36561ccf2fba/t2-o
 https://aka-live1050.delivery.roku.com/7ee12862-2d8d-447d-9124-553bfec17e48/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FILMEX
 https://aka-live1050.delivery.roku.com/c1f16607-abcf-4fb1-9bdb-469c8d3d1466/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="91dff2b8a62b5fe1bdf64de721032cba" tvg-id="91dff2b8a62b5fe1bdf64de721032cba" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Estrella TV
-https://aka-live1050.delivery.roku.com/ae801d5f-8ae0-43d3-ad4b-91523898849b/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="5e709cfe55d955ec899903cde681a5a4" tvg-id="5e709cfe55d955ec899903cde681a5a4" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Azteca Internacional
 https://aka-live1050.delivery.roku.com/bc71bd53-2d74-4db3-a30b-f79089e91f9c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="e3823bb513585861904499a21a736c4f" tvg-id="e3823bb513585861904499a21a736c4f" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Canal ViX
@@ -357,6 +357,8 @@ https://aka-live1050.delivery.roku.com/4d42598d-9cea-4c11-86e4-1f515de65635/t2-o
 https://aka-live1050.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="beb2be3222295798a8828458bea458ba" tvg-id="beb2be3222295798a8828458bea458ba" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FreeTV Estelar
 https://aka-live1050.delivery.roku.com/ac814b53-c78f-4058-a042-0927be42f7b0/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="3bc1756db0ef525b9cab86edcd426c55" tvg-id="3bc1756db0ef525b9cab86edcd426c55" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Canela.TV Narco-Drama
+https://aka-live1050.delivery.roku.com/45344e4f-128c-43b0-9925-2ffc5daebba8/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="b602b0edb0cd58a5a5be2b7554166c07" tvg-id="b602b0edb0cd58a5a5be2b7554166c07" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FilmRise Autopista al Cielo
 https://aka-live1050.delivery.roku.com/c1a7f29d-fa9d-47c3-8638-061d445f667c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="f2bbfc9566f9519aad982aea41b95f83" tvg-id="f2bbfc9566f9519aad982aea41b95f83" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Misterios sin resolver
@@ -453,8 +455,6 @@ https://aka-live1050.delivery.roku.com/6f6be129-2fa8-4230-b0e9-5d71628fcaaf/t2-o
 https://aka-live1050.delivery.roku.com/fa40d37e-1936-46de-96fb-9a5216147abe/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="3030ce6ed7c092f0b6780f05d10405f9" tvg-id="3030ce6ed7c092f0b6780f05d10405f9" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Mi Miedo Canal
 https://aka-live1050.delivery.roku.com/7b7d38b6-0b1b-49cd-82df-32d2d663919f/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="bb4cb7662f7c1da1e9a46f9e398d57fa" tvg-id="bb4cb7662f7c1da1e9a46f9e398d57fa" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Mi Raza Canal Plus
-https://aka-live1050.delivery.roku.com/2b1a8f2e-740f-4eb3-ba0b-e932bd904a5a/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="89388f7d7bf2910da37d47fa897096bd" tvg-id="89388f7d7bf2910da37d47fa897096bd" tvg-chno="" tvg-name="" tvg-logo="" group-title="",QVC en Espanol
 https://aka-live1050.delivery.roku.com/5d0f57fa-5d2c-4cc9-be25-724388641ebb/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="5396bbd4038fd1901a9a7a63af4f2441" tvg-id="5396bbd4038fd1901a9a7a63af4f2441" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Andromeda
@@ -471,6 +471,10 @@ https://aka-live1050.delivery.roku.com/5c7c2b21-f95d-4c8e-9fe3-eae019baba32/t2-o
 https://aka-live1050.delivery.roku.com/3c4f97c6-74c4-4fce-9988-c7de7439c11d/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="a4c928aa7928e5703f2918ef18904463" tvg-id="a4c928aa7928e5703f2918ef18904463" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Cine en Español
 https://aka-live1050.delivery.roku.com/b3fdd87c-b5a8-4f3d-bafe-3421c8eaba62/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="624f67e783acee9909159694148f04bc" tvg-id="624f67e783acee9909159694148f04bc" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FreeTV Terror
+https://aka-live1050.delivery.roku.com/e28d790c-626d-4828-a28b-fc9cbe81e4f4/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="bb4cb7662f7c1da1e9a46f9e398d57fa" tvg-id="bb4cb7662f7c1da1e9a46f9e398d57fa" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Mi Raza Canal Plus
+https://aka-live1050.delivery.roku.com/2b1a8f2e-740f-4eb3-ba0b-e932bd904a5a/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="b182852fa5860ed0017de42c7b9ce05a" tvg-id="b182852fa5860ed0017de42c7b9ce05a" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Nature Moments
 https://aka-live1050.delivery.roku.com/5e09d956-0175-4521-a57e-a58648b36919/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Stingray Naturescape
