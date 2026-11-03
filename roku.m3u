@@ -379,7 +379,7 @@ https://aka-live1050.delivery.roku.com/10d99635-efe0-4a99-ab00-54cbc2d95cf6/t2-o
 https://aka-live1050.delivery.roku.com/c06cf969-9735-4172-b4cc-5bd84d3a4281/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="8acb4f9b8a255216966db355daaa1749" tvg-id="8acb4f9b8a255216966db355daaa1749" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Euronews Español
 https://aka-live1050.delivery.roku.com/0ba7423f-c4fc-4355-b74b-4139c334325c/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Top Barça
+#EXTINF:-1 channel-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Barça 24H
 https://aka-live1050.delivery.roku.com/6c52e64d-3f25-402b-a025-6ff5db1a670b/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="35633f08c98857cb9e85c91eae17c0d5" tvg-id="35633f08c98857cb9e85c91eae17c0d5" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ViX Lo Mejor de Liga MX
 https://aka-live1050.delivery.roku.com/025088b2-d7e3-4803-9e66-a2a0eac3c39a/t2-origin/out/v1/live.m3u8
@@ -475,8 +475,14 @@ https://aka-live1050.delivery.roku.com/3c4f97c6-74c4-4fce-9988-c7de7439c11d/t2-o
 https://aka-live1050.delivery.roku.com/b3fdd87c-b5a8-4f3d-bafe-3421c8eaba62/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="624f67e783acee9909159694148f04bc" tvg-id="624f67e783acee9909159694148f04bc" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FreeTV Terror
 https://aka-live1050.delivery.roku.com/e28d790c-626d-4828-a28b-fc9cbe81e4f4/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="b29445028909978c06411a954c4b955e" tvg-id="b29445028909978c06411a954c4b955e" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FreeTV Clásico
+https://aka-live1050.delivery.roku.com/3b9632ba-c77b-44a5-834b-02b20cbac4dc/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="91dded32965096a401ea15f3c9b86c81" tvg-id="91dded32965096a401ea15f3c9b86c81" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Mi Raza Canal
+https://aka-live1050.delivery.roku.com/2fea1671-76b8-425b-9c54-5dd54ec1f946/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="bb4cb7662f7c1da1e9a46f9e398d57fa" tvg-id="bb4cb7662f7c1da1e9a46f9e398d57fa" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Mi Raza Canal Plus
 https://aka-live1050.delivery.roku.com/2b1a8f2e-740f-4eb3-ba0b-e932bd904a5a/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="a46e0aed15be88afdbc560324da36d60" tvg-id="a46e0aed15be88afdbc560324da36d60" tvg-chno="" tvg-name="" tvg-logo="" group-title="",4Fangs
+https://aka-live1050.delivery.roku.com/d8e2c343-8b68-4d54-ab7a-63fe1920cb04/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="b182852fa5860ed0017de42c7b9ce05a" tvg-id="b182852fa5860ed0017de42c7b9ce05a" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Nature Moments
 https://aka-live1050.delivery.roku.com/5e09d956-0175-4521-a57e-a58648b36919/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Stingray Naturescape
