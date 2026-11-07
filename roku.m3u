@@ -323,6 +323,8 @@ https://aka-live1050.delivery.roku.com/83e3226a-8835-4fe4-b3a1-cd7f0e5a3a22/t2-o
 https://aka-live1050.delivery.roku.com/128d0d37-7010-4d4a-8c5e-9a2825693aae/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="5cbb91d07dbd5b92ae3ef3e37be7f2ce" tvg-id="5cbb91d07dbd5b92ae3ef3e37be7f2ce" tvg-chno="" tvg-name="" tvg-logo="" group-title="",C4 en Alerta
 https://aka-live1050.delivery.roku.com/389decf5-61fb-4e0b-a999-36561ccf2fba/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="79eb3a43680e5a9f9689fee074502a3b" tvg-id="79eb3a43680e5a9f9689fee074502a3b" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Cine Romantico
+https://aka-live1050.delivery.roku.com/7ee12862-2d8d-447d-9124-553bfec17e48/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FILMEX
 https://aka-live1050.delivery.roku.com/c1f16607-abcf-4fb1-9bdb-469c8d3d1466/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="91dff2b8a62b5fe1bdf64de721032cba" tvg-id="91dff2b8a62b5fe1bdf64de721032cba" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Estrella TV
@@ -377,8 +379,6 @@ https://aka-live1050.delivery.roku.com/b713dc24-b486-42b7-a0a7-019362eff1d2/t2-o
 https://aka-live1050.delivery.roku.com/5d2a2807-6f42-4301-b3c3-a6f38c9777f6/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="5ae9fb0c6e015b0d951063f6a6b39ee5" tvg-id="5ae9fb0c6e015b0d951063f6a6b39ee5" tvg-chno="" tvg-name="" tvg-logo="" group-title="",El Señor de los Cielos
 https://aka-live1050.delivery.roku.com/e3a5c7b4-ac26-4539-a39a-794b46762341/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="cdfd1ee39343a406984976d2687e894d" tvg-id="cdfd1ee39343a406984976d2687e894d" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Vas O No Vas USA
-https://aka-live1050.delivery.roku.com/b110a01a-ed02-4aa9-ad91-dad47da6ffca/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="0de9839c79b758589c580dcdd4b40a8a" tvg-id="0de9839c79b758589c580dcdd4b40a8a" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Caso Cerrado
 https://aka-live1050.delivery.roku.com/a3265d9e-dd0a-4ff7-81ca-c54fbef7648f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="017397f76bae510a8a9800c4b94eaa40" tvg-id="017397f76bae510a8a9800c4b94eaa40" tvg-chno="" tvg-name="" tvg-logo="" group-title="",ViX Cine Club
@@ -433,6 +433,8 @@ https://aka-live1050.delivery.roku.com/e976a0c6-ee69-4d1b-a63f-2aebe222b8ca/t2-o
 https://aka-live1050.delivery.roku.com/2564ec91-6cbd-467c-bc1b-7fafa03d7807/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="46eb1feb60da2bc45bee66f313b564de" tvg-id="46eb1feb60da2bc45bee66f313b564de" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Azteca Noticias
 https://aka-live1050.delivery.roku.com/6f6be129-2fa8-4230-b0e9-5d71628fcaaf/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="b3c06fdf730b2bc048507d096111d6c5" tvg-id="b3c06fdf730b2bc048507d096111d6c5" tvg-chno="" tvg-name="" tvg-logo="" group-title="",DEPORTES ESTRELLATV
+https://aka-live1050.delivery.roku.com/fa40d37e-1936-46de-96fb-9a5216147abe/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="3030ce6ed7c092f0b6780f05d10405f9" tvg-id="3030ce6ed7c092f0b6780f05d10405f9" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Mi Miedo Canal
 https://aka-live1050.delivery.roku.com/7b7d38b6-0b1b-49cd-82df-32d2d663919f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="bb4cb7662f7c1da1e9a46f9e398d57fa" tvg-id="bb4cb7662f7c1da1e9a46f9e398d57fa" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Mi Raza Canal Plus
@@ -445,8 +447,6 @@ https://aka-live1050.delivery.roku.com/db9bd14b-b9cf-4467-ae35-dc6e4b511e1d/t2-o
 https://aka-live1050.delivery.roku.com/2b1e858e-9894-442d-a93f-4c78a8a63998/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="37ac7c2cc65f7fff8199119c422f7744" tvg-id="37ac7c2cc65f7fff8199119c422f7744" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Iron Chef en Español
 https://aka-live1050.delivery.roku.com/5ba65322-bb1e-4300-9024-3f40a1129549/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="b1c18b035b9f77a0cfeb169a61a8cc82" tvg-id="b1c18b035b9f77a0cfeb169a61a8cc82" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Los Asesinatos de Midsomer
-https://aka-live1050.delivery.roku.com/59ecfdb4-3b3d-4b31-a56e-93fccdff4d81/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="f99fa811e587e924c1aeebfe3d7f575f" tvg-id="f99fa811e587e924c1aeebfe3d7f575f" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Z Nation
 https://aka-live1050.delivery.roku.com/5c7c2b21-f95d-4c8e-9fe3-eae019baba32/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="c389cec44375fbb8881a2657daedf637" tvg-id="c389cec44375fbb8881a2657daedf637" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Garfield
@@ -489,6 +489,12 @@ https://aka-live1050.delivery.roku.com/4f9e883b-309e-4957-8f28-a98d21bb6b54/t2-o
 https://aka-live1050.delivery.roku.com/9c7ca2ba-ded2-437e-b542-9d7b09e68f90/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="d0d9af56b7735c318b66afe21089d028" tvg-id="d0d9af56b7735c318b66afe21089d028" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Cleveland 19 News Plus
 https://aka-live1050.delivery.roku.com/ed666203-17c5-4378-b730-0f2b9e63f35e/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-chno="" tvg-name="" tvg-logo="" group-title="",KPTV FOX 12 Oregon News
+https://aka-live1050.delivery.roku.com/4438f39d-54a7-4b30-905c-37a45d80fb51/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="bf7ee95e6a905222a1d24174120cc106" tvg-id="bf7ee95e6a905222a1d24174120cc106" tvg-chno="" tvg-name="" tvg-logo="" group-title="",WBTV News 3
+https://aka-live1050.delivery.roku.com/c3096ddd-1604-43ed-a60d-045da435a6f5/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="e8f8972f377a598590592ecd079e7cc4" tvg-id="e8f8972f377a598590592ecd079e7cc4" tvg-chno="" tvg-name="" tvg-logo="" group-title="",First Alert 4 St. Louis
+https://aka-live1050.delivery.roku.com/d62a674b-9c37-48e0-ae54-1a159e5869ee/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="d53b1fb8c41f574387cde82d084515ea" tvg-id="d53b1fb8c41f574387cde82d084515ea" tvg-chno="" tvg-name="" tvg-logo="" group-title="",WSMV 4 News
 https://aka-live1050.delivery.roku.com/407669f5-ff1f-4cd7-86fe-2d15b4f7b531/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="307cbde3d30957828ff68b3b979d6958" tvg-id="307cbde3d30957828ff68b3b979d6958" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Channel 3 Eyewitness News
